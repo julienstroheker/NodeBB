@@ -1,0 +1,12 @@
+{
+	"url": "http://localhost:4567",
+	"secret": "SuperDuperSecret123",
+	"database": "redis",
+	"port": 4567,
+	"redis": {
+		"host": "nodebbjs.redis.cache.windows.net",
+		"port": "6379",
+		"password": "apaM3t5MrQiEivFeeK3LbIRzJCLmCFz/I3gFgJhi3O0=",
+		"database": "0"
+	}
+}
